@@ -1,0 +1,16 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Playwright MCP logs/snapshots
+.playwright-mcp/
+
+# OS
+.DS_Store
+Thumbs.db
