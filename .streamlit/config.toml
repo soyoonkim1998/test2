@@ -1,0 +1,12 @@
+[server]
+# PRD: 업로드 파일 최대 10MB (app.py의 MAX_FILE_BYTES와 맞출 것)
+maxUploadSize = 10
+
+[theme]
+# 전통 관상소 컨셉: 한지 배경 + 먹색 글씨 + 인주(도장) 빨강 포인트
+base = "light"
+primaryColor = "#A3262A"
+backgroundColor = "#F4EDE0"
+secondaryBackgroundColor = "#E9DFCB"
+textColor = "#2A211B"
+font = "sans serif"
